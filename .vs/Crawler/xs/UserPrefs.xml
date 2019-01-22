@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0046B160-43CA-496F-8467-D2B7A7E42756}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crawler/.gitignore">
+    <Files>
+      <File FileName="Crawler/Program.cs" Line="1" Column="1" />
+      <File FileName="Crawler/.gitignore" Line="341" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Crawler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
